@@ -122,9 +122,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Anu Sharma - [@O_Anu_O](https://x.com/O_Anu_O) - 
+Anu Sharma - [@O_Anu_O](https://x.com/O_Anu_O)
+
 [Instagram](https://instagram.com/its.anu.sharma)
+
 [LinkedIn](https://www.linkedin.com/in/anu-sharma-2002/)
+
 [YouTube](https://www.youtube.com/@AnuSharma02)
 
 Project Link: [https://github.com/AnuSharma1729/Interview-Prep](https://github.com/AnuSharma1729/Interview-Prep)
